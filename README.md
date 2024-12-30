@@ -73,5 +73,6 @@ Building an AI system that acts as a consolidated system connected to all public
 	•	Knowledge Graph: Neo4j, GraphDB.
 	•	Cloud Platforms: AWS SageMaker, Azure AI, Google AI.
 
-This system can serve as a centralized intelligence hub, providing seamless interaction and data unification across all connected systems. Let me know if you’d like a more specific implementation or a focused area!
+This system can serve as a centralized intelligence hub, providing seamless interaction and data unification across all connected systems.
+
 
